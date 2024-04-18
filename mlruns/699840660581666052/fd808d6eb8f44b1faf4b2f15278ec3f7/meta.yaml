@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/.data/MLFlow-Manage-ML-Experiments/mlruns/699840660581666052/fd808d6eb8f44b1faf4b2f15278ec3f7/artifacts
+end_time: 1713423635299
+entry_point_name: ''
+experiment_id: '699840660581666052'
+lifecycle_stage: active
+run_id: fd808d6eb8f44b1faf4b2f15278ec3f7
+run_name: skittish-bug-384
+run_uuid: fd808d6eb8f44b1faf4b2f15278ec3f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713423635204
+status: 3
+tags: []
+user_id: nurhi
