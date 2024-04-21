@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/.data/MLFlow-Manage-ML-Experiments/mlruns/450341927541160517/f5a70c29c32d4bb4aa99808693b1ceeb/artifacts
+end_time: 1713428253227
+entry_point_name: ''
+experiment_id: '450341927541160517'
+lifecycle_stage: active
+run_id: f5a70c29c32d4bb4aa99808693b1ceeb
+run_name: charming-colt-176
+run_uuid: f5a70c29c32d4bb4aa99808693b1ceeb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713428253149
+status: 4
+tags: []
+user_id: nurhi

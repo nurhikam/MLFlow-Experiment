@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/.data/MLFlow-Manage-ML-Experiments/mlruns/512044522069094087/d8e031fb56d24a209b1cf242b8896e1a/artifacts
+deleted_time: 1713506719717
+end_time: null
+entry_point_name: ''
+experiment_id: '512044522069094087'
+lifecycle_stage: deleted
+run_id: d8e031fb56d24a209b1cf242b8896e1a
+run_name: worried-moose-359
+run_uuid: d8e031fb56d24a209b1cf242b8896e1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713506233083
+status: 1
+tags: []
+user_id: nurhi

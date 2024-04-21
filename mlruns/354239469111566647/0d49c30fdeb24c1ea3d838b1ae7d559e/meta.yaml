@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/.data/MLFlow-Manage-ML-Experiments/mlruns/354239469111566647/0d49c30fdeb24c1ea3d838b1ae7d559e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '354239469111566647'
+lifecycle_stage: active
+run_id: 0d49c30fdeb24c1ea3d838b1ae7d559e
+run_name: judicious-bug-805
+run_uuid: 0d49c30fdeb24c1ea3d838b1ae7d559e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713506760580
+status: 1
+tags: []
+user_id: nurhi

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/.data/MLFlow-Manage-ML-Experiments/mlruns/512044522069094087/7938dd8a5cc94e2bb4b915608befc8cb/artifacts
+deleted_time: 1713506719717
+end_time: null
+entry_point_name: ''
+experiment_id: '512044522069094087'
+lifecycle_stage: deleted
+run_id: 7938dd8a5cc94e2bb4b915608befc8cb
+run_name: sassy-bear-889
+run_uuid: 7938dd8a5cc94e2bb4b915608befc8cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713446493379
+status: 1
+tags: []
+user_id: nurhi

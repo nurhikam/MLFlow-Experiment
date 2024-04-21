@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/.data/MLFlow-Manage-ML-Experiments/mlruns/354239469111566647/e729d65ee23a4baea4c16152d598b451/artifacts
+end_time: 1713628432408
+entry_point_name: ''
+experiment_id: '354239469111566647'
+lifecycle_stage: active
+run_id: e729d65ee23a4baea4c16152d598b451
+run_name: enchanting-zebra-877
+run_uuid: e729d65ee23a4baea4c16152d598b451
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713628425972
+status: 3
+tags: []
+user_id: nurhi

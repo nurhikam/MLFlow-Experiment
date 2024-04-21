@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/.data/MLFlow-Manage-ML-Experiments/mlruns/512044522069094087/0aeedf342681466bb493f7b44ed95d22/artifacts
+deleted_time: 1713506719717
+end_time: null
+entry_point_name: ''
+experiment_id: '512044522069094087'
+lifecycle_stage: deleted
+run_id: 0aeedf342681466bb493f7b44ed95d22
+run_name: gentle-hawk-774
+run_uuid: 0aeedf342681466bb493f7b44ed95d22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713445924807
+status: 1
+tags: []
+user_id: nurhi

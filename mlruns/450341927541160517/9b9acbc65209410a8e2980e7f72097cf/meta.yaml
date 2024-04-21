@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/.data/MLFlow-Manage-ML-Experiments/mlruns/450341927541160517/9b9acbc65209410a8e2980e7f72097cf/artifacts
+end_time: 1713428114390
+entry_point_name: ''
+experiment_id: '450341927541160517'
+lifecycle_stage: active
+run_id: 9b9acbc65209410a8e2980e7f72097cf
+run_name: monumental-crow-536
+run_uuid: 9b9acbc65209410a8e2980e7f72097cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713428110542
+status: 3
+tags: []
+user_id: nurhi

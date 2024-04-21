@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/.data/MLFlow-Manage-ML-Experiments/mlruns/450341927541160517/f27cab5712c84600924ad650c9b47aa5/artifacts
+end_time: 1713428505844
+entry_point_name: ''
+experiment_id: '450341927541160517'
+lifecycle_stage: active
+run_id: f27cab5712c84600924ad650c9b47aa5
+run_name: wistful-chimp-579
+run_uuid: f27cab5712c84600924ad650c9b47aa5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713428501822
+status: 3
+tags: []
+user_id: nurhi

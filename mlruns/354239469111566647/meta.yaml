@@ -1,0 +1,6 @@
+artifact_location: file:///C:/.data/MLFlow-Manage-ML-Experiments/mlruns/354239469111566647
+creation_time: 1713506760152
+experiment_id: '354239469111566647'
+last_update_time: 1713506760152
+lifecycle_stage: active
+name: Loan_prediction

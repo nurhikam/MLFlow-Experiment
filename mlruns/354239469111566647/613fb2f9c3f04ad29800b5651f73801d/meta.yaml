@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/.data/MLFlow-Manage-ML-Experiments/mlruns/354239469111566647/613fb2f9c3f04ad29800b5651f73801d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '354239469111566647'
+lifecycle_stage: active
+run_id: 613fb2f9c3f04ad29800b5651f73801d
+run_name: placid-fox-75
+run_uuid: 613fb2f9c3f04ad29800b5651f73801d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713628197920
+status: 1
+tags: []
+user_id: nurhi

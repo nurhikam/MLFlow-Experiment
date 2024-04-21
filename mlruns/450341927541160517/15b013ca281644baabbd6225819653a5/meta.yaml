@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/.data/MLFlow-Manage-ML-Experiments/mlruns/450341927541160517/15b013ca281644baabbd6225819653a5/artifacts
+end_time: 1713428051555
+entry_point_name: ''
+experiment_id: '450341927541160517'
+lifecycle_stage: active
+run_id: 15b013ca281644baabbd6225819653a5
+run_name: sassy-wasp-686
+run_uuid: 15b013ca281644baabbd6225819653a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713428047787
+status: 3
+tags: []
+user_id: nurhi
