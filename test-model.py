@@ -1,5 +1,5 @@
 import mlflow
-logged_model = 'runs:/86c44dfd142040a8b8977f5ea10a2771/RandomForestClassifier'
+logged_model = 'runs:/2192e50132744b09a33d72c64cb5429c/RandomForestClassifier'
 
 # Load model as a PyFuncModel.
 loaded_model = mlflow.pyfunc.load_model(logged_model)
